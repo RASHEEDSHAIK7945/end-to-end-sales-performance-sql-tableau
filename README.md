@@ -161,12 +161,12 @@ The Tableau solution consists of two main dashboards:
 ## 📊 Dashboard Preview
 
 ### 📈 Sales Performance Dashboard
-![Sales Dashboard](tableau/dashboard_sales.png)
+![Sales Dashboard](tableau/dashboard_sales .png)
 
 ---
 
 ### 👥 Customer Analytics Dashboard
-![Customer Dashboard](tableau/dashboard_customers.png)
+![Customer Dashboard](tableau/dashboard_customers .png)
 
 ---
 
