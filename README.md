@@ -160,6 +160,14 @@ The Tableau solution consists of two main dashboards:
 
 ## 📊 Dashboard Preview
 
+### Data Model (Star Schema)
+
+The analytics layer is built on a dimensional star schema optimized for BI reporting and performance. The central fact table captures order-level transactions, while dimension tables provide business context for customers, products, location, and time. This model serves as the semantic layer consumed by the Tableau dashboards below.
+
+![Sales Analytics Star Schema](tableau/data_model.png)
+
+---
+
 ### 📈 Sales Performance Dashboard
 ![Sales Dashboard](tableau/dashboard_sales.png)
 
