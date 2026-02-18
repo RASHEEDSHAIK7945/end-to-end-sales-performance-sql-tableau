@@ -1,7 +1,7 @@
 # End-to-End Sales Performance Dashboard (SQL Server + Tableau)
 
 🔗 **Live Interactive Dashboard (Tableau Public)**  
-👉 [https://public.tableau.com](https://public.tableau.com/views/End-to-EndSalesPerformanceDashboard/SALESDASHBOARD?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [View Interactive Dashboard](https://public.tableau.com/views/End-to-EndSalesPerformanceDashboard/SALESDASHBOARD?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -196,14 +196,22 @@ All datasets are ingested into SQL Server and transformed into a dimensional war
 
 ---
 
-## Insights & Recommendations
+## 📊 Insights & Business Recommendations
 
-Key analytical takeaways from the dashboards include:
+> Dataset: Superstore retail data used for analytical demonstration. Insights are derived from dashboard trends and aggregated metrics.
 
-- Certain product sub-categories generate high sales but low profit margins, indicating pricing or discount strategy improvement opportunities.  
-- Clear seasonality is observed in monthly sales trends, suggesting targeted promotions during low-performing months.  
-- Weekly sales volatility highlights operational or promotional inconsistencies that require further investigation.  
-- A small group of high-value customers contributes a significant share of total profit, indicating both retention opportunities and concentration risk.
+- **Revenue vs. Margin Gap:** In 2023, sales increased significantly YoY, while profit growth lagged behind, indicating margin compression likely driven by higher discounting.
+- **Seasonality:** Sales exhibit strong seasonality with Q4 as the peak period and February consistently underperforming, suggesting opportunities for targeted demand-stimulation campaigns during low-activity months.
+- **Tables Sub-Category:** High sales volume combined with negative profit margins highlights potential over-discounting or unfavorable cost structures; reviewing discount policies and pricing strategy could improve profitability with limited revenue impact.
+- **Copiers Performance:** Despite lower order frequency, copiers demonstrate high profit per transaction, indicating an opportunity to prioritize upsell and cross-sell strategies for high-value products.
+- **Customer Retention Opportunity:** While the active customer base shows YoY growth, a large proportion of customers place only one or two orders, pointing to significant potential for retention and repeat-purchase programs.
+
+**Recommended Actions:**
+- Review and rationalize discounting strategies for low-margin sub-categories (e.g., Tables).  
+- Design targeted campaigns for historically low-performing months.  
+- Develop focused upsell strategies around high-margin products (e.g., Copiers).  
+- Implement customer retention initiatives to increase repeat purchase rates and lifetime value.
+
 
 ---
 
