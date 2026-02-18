@@ -226,7 +226,7 @@ All datasets are ingested into SQL Server and transformed into a dimensional war
 ## Author
 
 **RASHEED SHAIK**  
-Aspiring Data Analyst | SQL | Tableau | Data Warehousing | Data Storytelling  
+Data Analyst | SQL | Tableau | Data Warehousing | Data Storytelling  
 
 ---
 
